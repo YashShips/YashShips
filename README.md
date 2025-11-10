@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](https://linkedin.com/in/yash-yadav)
-- [Twitter](https://twitter.com/yourhandle)
+- [LinkedIn](https://www.linkedin.com/in/yash-yadav-a9aa4035a/)
+- [Twitter](https://x.com/YashYadav272876)
