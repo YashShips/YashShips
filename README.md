@@ -32,3 +32,11 @@ Here are some ideas to get you started:
 ## 📫 Connect With Me
 - <b>[LinkedIn](https://www.linkedin.com/in/yash-yadav-a9aa4035a/)</b>
 - <b>[Twitter](https://x.com/YashYadav272876)</b>
+
+## 📄 Resume
+
+<p align="center">
+  <a href="https://github.com/YashShips/YashShips/blob/main/YashResume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-0078D4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume"/>
+  </a>
+</p>
