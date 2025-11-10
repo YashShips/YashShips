@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hey, I'm Yash!
+
+🎓 CS Student at **Chitkara University**  
+💻 Passionate about **Web Development** and **Generative AI**  
+🧠 Learning **DSA in Java** & improving my logical problem-solving skills  
+🚀 Building consistency and credibility one commit at a time
+
+---
+
+## 📊 GitHub Stats
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashShips&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=YashShips&theme=tokyonight)
+
+---
+
+## 🧩 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashShips&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- [LinkedIn](https://linkedin.com/in/yash-yadav)
+- [Twitter](https://twitter.com/yourhandle)
