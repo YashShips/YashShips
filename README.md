@@ -26,14 +26,8 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashShips&show_icons=true&theme=tokyonight)
 
----
-
-## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=YashShips&theme=tokyonight)
 
----
-
-## 🧩 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashShips&layout=compact&theme=tokyonight)
 
 ---
