@@ -28,8 +28,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashShips&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
----
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/yash-yadav-a9aa4035a/)
+- <b>[LinkedIn]</b>(https://www.linkedin.com/in/yash-yadav-a9aa4035a/)
 - [Twitter](https://x.com/YashYadav272876)
