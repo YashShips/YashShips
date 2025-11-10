@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 
 ## 📫 Connect With Me
-- <b>[LinkedIn]</b>(https://www.linkedin.com/in/yash-yadav-a9aa4035a/)
+- <b>[LinkedIn](https://www.linkedin.com/in/yash-yadav-a9aa4035a/)</b>
 - [Twitter](https://x.com/YashYadav272876)
