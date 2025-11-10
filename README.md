@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 🧠 Learning **DSA in Java** & improving my logical problem-solving skills  
 🚀 Building consistency and credibility one commit at a time
 
----
 
 ## 📊 GitHub Stats
 
